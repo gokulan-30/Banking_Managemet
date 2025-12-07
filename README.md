@@ -1,2 +1,1 @@
-# Banking_Managemet
-Banking Management Capstone using Java
+A Bank Management System is a software application designed to automate and manage daily banking operations such as account creation, customer records, deposits, withdrawals, balance checking, transactions, and generating statements. It ensures faster processing, reduces manual errors, improves security, and maintains accurate financial records.
